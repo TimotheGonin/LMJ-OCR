@@ -28,3 +28,6 @@
 	padding: 5px 10px;
 	background-color: #31b572;
 }
+.lmj-sales::after{
+  content:'Soldes'
+}
